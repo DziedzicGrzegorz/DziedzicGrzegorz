@@ -1,7 +1,6 @@
 # Hi!👨‍💻
 ### I'm a software developer studying👨🏻‍🏫 in Poland, specializing in technologies such as:
 - **JavaScript && TypeScript** : Nest, Express, React  
-- **Python** : TensorFlow
 - **Databases** : PostgreSQL, MongoDB
  ***
 - 💻 I'm currently working on several exciting projects related to web development and data processing
